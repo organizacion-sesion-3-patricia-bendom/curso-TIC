@@ -1,5 +1,5 @@
 * UT1. Características generales de los dispositivos digitales y componentes básicos de los equipos informáticos.
-[[./imagenes/logos.png]]
+[[./imagenes/logos.PNG]]
 
 Curso de formación para alumnado de ciclos formativos con asignaturas de hardware de la familia profesional de Informática y Comunicaciones.
 
