@@ -1,5 +1,5 @@
 * Gestión de la tarea docente con GitHub
-[[./imagenes/Logotipo_ME_FP_GV_FSE.png]]
+[[./imagenes/Logotipos.png]]
 
 Curso de formación para alumnado de ciclos formativos con asignaturas de hardware de la familia profesional de Informática y Comunicaciones.
 
