@@ -3,13 +3,5 @@
 
 Curso de formación para alumnado de ciclos formativos con asignaturas de hardware de la familia profesional de Informática y Comunicaciones.
 
-** Presentación
-- [[https://www.youtube.com/watch?v=14H1Ultqxpw&index=1&list=PLQg_Bl-6Gfo9k0KQg5vaaV9r6Hg--nMA7][Presentación]]
-
 ** Sesiones
 1. [[./presentaciones/caracteristicas_generales_dispositivos_digitales.pdf][Características principales de los dispositivos digitales]]
-2. [[./sesion-2.org][Componentes básicos de un sistema informático]]
-
-
-** Recursos
-- [[https://git-scm.com/book/es/v2][Libro de Git]]
